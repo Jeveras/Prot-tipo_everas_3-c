@@ -73,3 +73,6 @@ abas-textos{
     color: var(--verde);
     text-transform: uppercase;
 }
+.contador{
+    font-display: flex;
+}
